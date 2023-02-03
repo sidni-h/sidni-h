@@ -14,5 +14,5 @@ bla bla
 
 ## CONTATTI
 
-[MIO SITO] (https://google.com)
+[MIO SITO](https://)
 
