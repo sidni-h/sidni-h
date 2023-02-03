@@ -1,9 +1,5 @@
-# TITOLO DI PRIMO LIVELLO
-
-mio testo
-
-## BIOGRAFIA
-bla bla
+## Sidni Halilaj
+Concept Art Student
 
 
 ## LAVORI FATTI
@@ -14,5 +10,6 @@ bla bla
 
 ## CONTATTI
 
+sissi9h@gmail.com
 [MIO SITO](https://)
 
